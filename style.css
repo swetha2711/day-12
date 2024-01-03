@@ -1,0 +1,318 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css");
+.required:after {
+    content:" *";
+    color: red;
+    }
+.name{
+        float: left;
+        padding-right: 4%;
+    }
+.first{
+    float: left;
+    padding-right: 15%;
+}
+.required1:after {
+    content:" *";
+    color: red;
+    }
+.form-control{
+    margin-top:15px;
+}
+.form-control input{
+    width:30%;
+}
+.form-control2{
+    margin-top:15px;
+}
+.required2:after {
+    content:" *";
+    color: red;
+    }
+.checked {
+    color: orange;
+  }
+.form-control3{
+    margin-top:15px;
+}
+.required3:after {
+    content:" *";
+    color: red;
+    }
+.radioGroupBelow label {
+    display: inline-block;
+    text-align: center;
+    margin:10px 0px 0px 20px;
+    }
+
+.rating{
+    background-color: lightgray;
+}
+.Purchase{
+    margin:0px 0px 0px 0px;
+    display:block;
+   
+}
+
+.Level1 {
+    margin:10px 0px 0px 400px;
+    display:inline-block;
+}
+
+.Level33 {
+    margin:10px 0px 0px 50px;
+    display:inline-block;
+}
+
+.Level44 {
+    margin:10px 0px 0px 60px;
+    display:inline-block;
+}
+
+.Level55 {
+    margin:10px 0px 0px 65px;
+    display:inline-block;
+}
+
+.Level66 {
+    margin:10px 0px 0px 60px;
+    display:inline-block;
+}
+
+.level6{
+    margin:3px 0px 0px 400px;
+    display:inline-block;
+}
+.level7{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+    }
+
+
+.level8{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+
+}
+.level9{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+}
+.level11{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+}
+
+.rating2{
+    background-color:whitesmoke;
+}
+.Service{
+    margin:0px 0px 0px 0px;
+    display:block;
+
+}
+
+.level12{
+    margin:3px 0px 0px 412px;
+    display:inline-block;
+}
+.level13{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+    }
+
+
+.level14{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+
+}
+.level15{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+}
+.level16{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+}
+
+.rating1{
+    background-color: lightgray;
+}
+
+.Overall{
+    margin:3px 0px 0px 0px;
+    display:block;
+}
+
+.level17{
+    margin:3px 0px 0px 345px;
+    display:inline-block;
+}
+.level18{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+    }
+
+
+.level19{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+
+}
+.level20{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+}
+.level21{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+}
+
+.radioGroupBelow label input[type="radio"] {
+    display: block;
+    margin: 3px 10px;
+    }
+.form-control4{
+    margin:10px 10px 10px 0px;
+}
+.required4:after {
+    content:" *";
+    color: red;
+}
+
+.radioGroupBelow1 label {
+    display: inline-block;
+    text-align: center;
+    margin:10px 0px 0px 20px;
+    }
+
+.rating6{
+    background-color: lightgray;
+}
+.Buy{
+    margin:0px 0px 0px 0px;
+    display:block;
+   
+}
+
+.Like1 {
+    margin:10px 0px 0px 410px;
+    display:inline-block;
+}
+
+.Like2 {
+    margin:0px 0px 0px 70px;
+    display:inline-block;
+}
+
+.Like3 {
+    margin:0px 0px 0px 70px;
+    display:inline-block;
+}
+.Like4 {
+    margin:0px 0px 0px 70px;
+    display:inline-block;
+}
+.Like5 {
+    margin:0px 0px 0px 70px;
+    display:inline-block;
+}
+
+
+
+
+.level41{
+    margin:3px 0px 0px 340px;
+    display:inline-block;
+}
+.level22{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+    }
+
+
+.level23{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+
+}
+.level24{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+}
+.level25{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+}
+
+.rating7{
+    background-color:whitesmoke;
+}
+.Product{
+    margin:0px 0px 0px 0px;
+    display:block;
+
+}
+
+.level26{
+    margin:3px 0px 0px 240px;
+    display:inline-block;
+}
+.level27{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+    }
+
+
+.level28{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+
+}
+.level29{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+}
+.level30{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+}
+
+.rating8{
+    background-color: lightgray;
+}
+
+.Company{
+    margin:3px 0px 0px 0px;
+    display:block;
+}
+
+.level31{
+    margin:3px 0px 0px 230px;
+    display:inline-block;
+}
+.level32{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+    }
+
+
+.level33{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+
+}
+.level34{
+    display: inline-block;
+    margin:3px 0px 6px 120px;
+}
+.level35{
+    display: inline-block;
+    margin:3px 10px 6px 120px;
+}
+
+input[type=Submit] {
+    width: 100px;  
+    height: 50px;
+}
+
